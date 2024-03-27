@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVIDCompareTool", "CSVIDCompareTool.csproj", "{AC801335-BC99-43F3-AE9C-D123D37E55CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC801335-BC99-43F3-AE9C-D123D37E55CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC801335-BC99-43F3-AE9C-D123D37E55CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC801335-BC99-43F3-AE9C-D123D37E55CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC801335-BC99-43F3-AE9C-D123D37E55CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1983A13-DF92-43E9-82AF-04C382A78950}
+	EndGlobalSection
+EndGlobal
